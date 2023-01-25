@@ -102,3 +102,4 @@ for img_path in image_path :
 tree._setroot(root)
 tree.write("test.xml", encoding="utf-8")
 
+
