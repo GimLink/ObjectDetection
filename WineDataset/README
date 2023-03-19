@@ -1,0 +1,5 @@
+로보 플로우에 있는 와인 라벨 데이터셋 객체인식 실습입니다.
+COCO JSON 형식과 XML 형식 두 가지 모두 실습 진행하였습니다.
+JSON 파일을 다루는 것이 익숙하지 않아서 JSON 학습 용으로 좋습니다.
+
+https://universe.roboflow.com/roboflow-100/wine-labels
